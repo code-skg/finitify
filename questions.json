@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does ROI stand for in finance?",
+    "correct_answer": "Return on Investment",
+    "incorrect_answers": [
+      "Rate of Interest",
+      "Revenue on Income",
+      "Ratio of Investment"
+    ]
+  },
+  {
+    "question": "Which document shows a company's financial performance over a specific period?",
+    "correct_answer": "Income Statement",
+    "incorrect_answers": [
+      "Balance Sheet",
+      "Cash Flow Statement",
+      "Audit Report"
+    ]
+  },
+  {
+    "question": "Which is considered a liability?",
+    "correct_answer": "Loan Payable",
+    "incorrect_answers": [
+      "Cash",
+      "Inventory",
+      "Revenue"
+    ]
+  },
+  {
+    "question": "What is a budget?",
+    "correct_answer": "A financial plan to manage income and expenses",
+    "incorrect_answers": [
+      "A type of loan",
+      "A government tax",
+      "A credit score"
+    ]
+  },
+  {
+    "question": "What is the full form of EMI?",
+    "correct_answer": "Equated Monthly Installment",
+    "incorrect_answers": [
+      "Equity Market Investment",
+      "Earning Monthly Interest",
+      "Electronic Money Investment"
+    ]
+  },
+  {
+    "question": "Which of these is an investment option?",
+    "correct_answer": "Mutual Funds",
+    "incorrect_answers": [
+      "Utility Bills",
+      "Insurance Premium",
+      "Sales Tax"
+    ]
+  },
+  {
+    "question": "Which financial ratio shows a company’s ability to pay short-term obligations?",
+    "correct_answer": "Current Ratio",
+    "incorrect_answers": [
+      "Debt Ratio",
+      "Profit Margin",
+      "Interest Coverage Ratio"
+    ]
+  },
+  {
+    "question": "What does diversification in investing mean?",
+    "correct_answer": "Spreading investments across different assets",
+    "incorrect_answers": [
+      "Investing all money in one stock",
+      "Buying foreign currency",
+      "Avoiding risk completely"
+    ]
+  },
+  {
+    "question": "Which one is a direct tax in India?",
+    "correct_answer": "Income Tax",
+    "incorrect_answers": [
+      "GST",
+      "Excise Duty",
+      "Customs Duty"
+    ]
+  },
+  {
+    "question": "Which is the safest type of investment?",
+    "correct_answer": "Fixed Deposit",
+    "incorrect_answers": [
+      "Stock Market",
+      "Real Estate",
+      "Cryptocurrency"
+    ]
+  }
+]
